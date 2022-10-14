@@ -3,26 +3,26 @@
 -Design Calculations and Details
 
 ### A3 Drawing
-[] general layout of the first floor
-[] design statement
-[] general framing arrangement
-[] justification of lateral stability
+[ ] general layout of the first floor
+[ ] design statement
+[ ] general framing arrangement
+[ ] justification of lateral stability
 
 ### Design Calculations and Details
 
 #### Design Loadings
-[] variable loads due to our designed arrangment
-[] load combinations
+[ ] variable loads due to our designed arrangment
+[ ] load combinations
 
 #### Floor Design (Slab)
 - assuming two way slab
-- [] sizing
-- [] bending, shear, torsion(not sure)
-- [] combination of bending+torsion or shear+torsion
-- [] top and bottom reinforcement
-- [] shear link
-- [] deflection
-- [] crack
+- [ ] sizing
+- [ ] bending, shear, torsion(not sure)
+- [ ] combination of bending+torsion or shear+torsion
+- [ ] top and bottom reinforcement
+- [ ] shear link
+- [ ] deflection
+- [ ] crack
 
 #### Frame Design
 
