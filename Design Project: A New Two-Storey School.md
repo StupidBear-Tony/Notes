@@ -16,13 +16,13 @@
 
 #### Floor Design (Slab)
 - assuming two way slab
-[] sizing
-[] bending, shear, torsion(not sure)
-[] combination of bending+torsion or shear+torsion
-[] top and bottom reinforcement
-[] shear link
-[] deflection
-[] crack
+- [] sizing
+- [] bending, shear, torsion(not sure)
+- [] combination of bending+torsion or shear+torsion
+- [] top and bottom reinforcement
+- [] shear link
+- [] deflection
+- [] crack
 
 #### Frame Design
 
