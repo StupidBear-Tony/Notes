@@ -3,8 +3,8 @@
 -Design Calculations and Details
 
 ### A3 Drawing
-[ ] general layout of the first floor
-[ ] design statement
+[ ] general layout of the first floor 
+[ ] design statement  
 [ ] general framing arrangement
 [ ] justification of lateral stability
 
