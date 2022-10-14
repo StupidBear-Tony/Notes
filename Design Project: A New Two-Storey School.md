@@ -14,8 +14,8 @@
 [ ] variable loads due to our designed arrangment
 [ ] load combinations
 
-#### Floor Design (Slab)
-- assuming two way slab
+#### Floor Design (Slab) 
+assuming two way slab
 - [ ] sizing
 - [ ] bending, shear, torsion(not sure)
 - [ ] combination of bending+torsion or shear+torsion
